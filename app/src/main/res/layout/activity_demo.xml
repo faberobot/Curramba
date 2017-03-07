@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?> <!-- Con el scroll view se permite poner imagenes de tamaño real en el xml, tambien soluciona lo del teclado-->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_demo"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.don_r.curramba.DemoActivity">
+
+    <!-- Si se tiene alguna imagen o algo que se desee que aparezca en todos los text view, se agrega el fragmento estatico en cada xml-->
+   <!-- <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <fragment
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:name="com.example.don_r.curramba.Hotel1Fragment"
+            tools:layout="@layout/fragment_hotel1"
+            android:id="@+id/hotel1"/>
+
+        <fragment
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:name="com.example.don_r.curramba.Hotel2Fragment"
+            tools:layout="@layout/fragment_hotel2"
+            android:id="@+id/hotel2"/>
+    </LinearLayout>-->
+
+</ScrollView>
+
+

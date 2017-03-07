@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Curramba</string>
+    <string name="titulo">titulo</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="iniciar">iniciar</string>
+    <string name="registrarse">registrarse</string>
+    <string name="Currambalabella">Curramba la Bella</string>
+    <string name="Registro">Registro</string>
+    <string name="Nombre">Nombre Usuario</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="rcontraseña">Repetir Contraseña</string>
+    <string name="Registrar">Registrarse</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="miPerfil">Mi Perfil</string>
+    <string name="cerrar">Cerrar Sesion</string>
+    <string name="usuario">Usuario</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Hotel1">Ritz Hotel London</string>
+    <string name="Hotel2">Ritter Hotel Heidelberg</string>
+    <string name="title_activity_hoteles">HotelesActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Ppal">Principal</string>
+</resources>
